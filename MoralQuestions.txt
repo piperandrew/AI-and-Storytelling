@@ -1,0 +1,7 @@
+#q.pro<-"Who is the protagonist of this story? State your answer as a single name."
+#q.pro.type<-"a hero or a villain (i.e. are they portrayed positively or negatively) or are they a victim? You may choose more than one. Answer with a single word: hero, villain, victim. If none, say none."
+#q.obstacle<-"What is the negative force or obstacle of this story? State your answer as a single word."
+#q.topic<-"What is the central topic or issue of this story? State your answer as a single keyword or phrase."
+#q.moral<-"What is the moral of this story? State your answer as a single sentence."
+#q.moral.key<-"Can you reduce this to three keywords? Don't use the word empathy."
+#q.moral.neg<-"What is the moral of this story? State your answer as a single word or phrase followed by 'is a bad behavior'."
